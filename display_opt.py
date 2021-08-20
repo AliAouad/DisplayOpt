@@ -1,7 +1,5 @@
 '''
 Created on Nov 24, 2017
-
-@author: aliaouad
 '''
 import pandas as pd
 import numpy as np
